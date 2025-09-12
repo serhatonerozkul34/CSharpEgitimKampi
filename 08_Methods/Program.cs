@@ -149,8 +149,6 @@ namespace _08_Methods
             Console.WriteLine(ExamResult("Ali", 25, 41, 55));
             Console.WriteLine(ExamResult("Ayşe", 36, 88, 33));
 
-
-
             #endregion
 
 
