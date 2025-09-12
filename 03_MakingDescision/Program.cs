@@ -306,7 +306,6 @@ namespace _03_MakingDescision
             //        Console.WriteLine("Hatalı Giriş Yaptınız!");
             //        break;
             //}
-
             #endregion
 
             Console.Read();
