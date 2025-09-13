@@ -4,28 +4,38 @@ Bu repo, Murat Yücedağ’ın hazırladığı C# Eğitim Kampı kapsamında yap
 
 📂 Projeler
 
+
+
 🚀 01 - Merhaba Dünya
+
 Konsol ekranına yazı yazmayı öğrendim. İlk kez C# kodu çalıştırarak programlamaya giriş yaptım.
 
 🔢 02 - Değişkenler
+
 Int, string, double, char gibi temel veri tiplerini tanıdım ve bunlarla işlem yapmayı denedim.
 
 ⚡ 03 - Karar Yapıları
+
 If-else ve switch-case ile koşullara göre farklı sonuçlar üretmeyi öğrendim.
 
 🔄 04 - Döngüler
+
 For ve while döngülerini kullanarak tekrarlı işlemler yaptım.
 
 🧮 05 - Döngülerle Örnekler
+
 Döngüleri pekiştirmek için pratik uygulamalar yaptım.
 
 📊 06 - Diziler
+
 Aynı türden verileri tek bir yapıda tutmayı ve dizi üzerinde işlem yapmayı öğrendim.
 
 🔁 07 - Foreach Döngüsü
+
 Koleksiyonlar ve diziler üzerinde foreach ile daha pratik döngüler kurdum.
 
 🛠️ 08 - Metotlar
+
 Tekrarlayan kodları düzenlemek için metot oluşturmayı ve parametrelerle çalışmayı öğrendim.
 
 ...
