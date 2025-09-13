@@ -31,4 +31,5 @@ Tekrarlayan kodları düzenlemek için metot oluşturmayı ve parametrelerle ça
 ...
 
 ✅ Bu kamp sayesinde C#’ın temel konularını sıfırdan öğrenip uygulamalı olarak pekiştirdim.
+
 👉 Projeleri görmek için: <a href="https://github.com/serhatonerozkul34/CSharpEgitimKampi">CSharpEgitimKampi</a>
